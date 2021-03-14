@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm xiwangly2. I'm from China. My hobbies are computer network programming and artificial intelligence programming. I am still a high school student. I started to teach myself computer technology at the age of 13, so there is still a lot of room for improvement."Behind an able man there are always other able men."
+I'm xiwangly2.I'm from China.My hobbies are computer network programming and artificial intelligence programming.I am still a high school student,I began to self-study computer technology at the age of 13,so there is still a lot of room to improve myself."Behind an able man there are always other able men."
