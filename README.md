@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm xiwangly2.I'm from China.My hobbies are computer network programming and AI programming.I am still a high school student,I began to self-study computer technology at the age of 13,so there is still a lot of room to improve myself."Behind an able man there are always other able men."
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiwangly2&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&count_private=true"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats)
