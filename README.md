@@ -3,11 +3,12 @@
 <div style="position:relative; display: flex; flex-wrap: nowrap;"> 
     <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
     <div style='position:absolute; z-index:2;'>
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats)
+        <img src='https://github-readme-stats.vercel.app/api?username=xiwangly2' alt="Anurag's GitHub stats"/>
         <!-- <img style='position:absolute; z-index:2;' src='00.webp' width='300px' alt="00.webp"/> -->
     </div>
 </div> 
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiwangly2)](https://github.com/ryo-ma/github-profile-trophy)
 
