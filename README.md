@@ -1,22 +1,19 @@
 ### Hi there 👋
 
-<!--
-**xiwangly2/xiwangly2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+    <div style='position:absolute; z-index:2;'>
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats)
+        <!-- <img style='position:absolute; z-index:2;' src='00.webp' width='300px' alt="00.webp"/> -->
+    </div>
+</div> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm xiwangly2.<!--I'm from China.My hobbies are computer network programming and AI programming.I am still a high school student,I began to self-study computer technology at the age of 13,so there is still a lot of room to improve myself."Behind an able man there are always other able men."-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiwangly2)](https://github.com/ryo-ma/github-profile-trophy)
+
+![xiwangly2](https://count.getloli.com/get/@xiwangly2)
+
+<div align="center" style="position: relative;">
+    <img src="nature_bamboo_forest_42937_12.jpg" width="100%" style="opacity: 0.8; position: absolute; top: 0; left: 0; z-index: -1;">
+    <img src="github-metrics.svg" alt="github-metrics.svg" style="position: relative;">
+</div>
