@@ -6,8 +6,12 @@
 
 ## Self Introduction
 
-A college student who loves open source projects.   
-***Currently Busy with school work and unavailable.***  
+A shachiku enthusiast immersed in the world of open-source projects.
+
+**Currently buried under work commitments and unavailable.**
+
+I have a smattering of knowledge across various fields, but I haven't truly excelled in any.
+
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -35,6 +39,8 @@ A college student who loves open source projects.
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=11557C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
+More...
+
 
 ## 🖥️ &nbsp;Operating System
 
@@ -55,9 +61,10 @@ A college student who loves open source projects.
 ![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-05122A?style=flat&logo=almalinux&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=white)
 ![Armbian](https://img.shields.io/badge/-Armbian-05122A?style=flat&logo=armbian&logoColor=white)
+More...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Xiwangly's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwangly2)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xiwangly2)](https://github.com/ryo-ma/github-profile-trophy) -->
 
