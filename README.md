@@ -62,7 +62,6 @@ More...
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![Armbian](https://img.shields.io/badge/-Armbian-05122A?style=flat&logo=armbian)
 ![Gentoo Linux](https://img.shields.io/badge/-Gentoo_Linux-05122A?style=flat&logo=gentoo-linux)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![CentOS Stream](https://img.shields.io/badge/-CentOS_Stream-05122A?style=flat&logo=centos)
 ![Alma Linux](https://img.shields.io/badge/-Alma_Linux-05122A?style=flat&logo=almalinux)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-05122A?style=flat&logo=manjaro)
@@ -71,7 +70,6 @@ More...
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kalilinux)
 ![ImmortalWrt](https://img.shields.io/badge/-ImmortalWrt-05122A?style=flat&logo=openwrt)
 ![Phoenix OS](https://img.shields.io/badge/-Phoenix_OS-05122A?style=flat&logo=phoenix)
-![Armbian](https://img.shields.io/badge/-Armbian-05122A?style=flat&logo=armbian)
 ![Deepin](https://img.shields.io/badge/-Deepin-05122A?style=flat&logo=deepin)
 ![Kylin OS](https://img.shields.io/badge/-Kylin_OS-05122A?style=flat&logo=kylinos)
 
