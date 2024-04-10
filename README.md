@@ -39,6 +39,7 @@ I have a smattering of knowledge across various fields, but I haven't truly exce
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=11557C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
+
 More...
 
 
@@ -61,6 +62,7 @@ More...
 ![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-05122A?style=flat&logo=almalinux&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=white)
 ![Armbian](https://img.shields.io/badge/-Armbian-05122A?style=flat&logo=armbian&logoColor=white)
+
 More...
 
 
@@ -68,6 +70,8 @@ More...
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=xiwangly2)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+## Profile views
+
 ![loli views](https://count.getloli.com/get/@xiwangly2?theme=rule34)
 
-![views](https://komarev.com/ghpvc/?username=xiwangly2&style=flat&color=green&base=987)
+<!-- ![views](https://komarev.com/ghpvc/?username=xiwangly2&style=flat&color=green) -->
