@@ -12,6 +12,8 @@ A shachiku enthusiast immersed in the world of open-source projects.
 
 I have a smattering of knowledge across various fields, but I haven't truly excelled in any.
 
+~~My spoken English is really bad, I still rely heavily on translation tools.~~
+
 
 ## 🛠️ &nbsp;Tech Stack
 
